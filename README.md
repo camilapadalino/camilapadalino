@@ -1,7 +1,12 @@
-### Oie! Bem vindo(a)!
+### <h1> Oie! Seja bem vindo(a)! </h1>
+Aqui tem de tudo um pouco, projetos, alguns exercícios e trabalhos feitos em aula.<br>
+Uso o Git como meu portfólio pessoal!
 
-<img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilapadalino&layout=compact&langs_count=16&theme=dracula"/>]
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=camilapadalino&show_icons=true&theme=dracula)
+<div>
+  <a href="https://github.com/camilapadalino">
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=camilapadalino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilapadalino&layout=compact&langs_count=16&theme=dracula"/>
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
