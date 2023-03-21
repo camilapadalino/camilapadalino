@@ -1,5 +1,5 @@
 ### <h1> Oie! Seja bem vindo(a)! </h1>
-Aqui tem de tudo um pouco, projetos, alguns exercícios e trabalhos feitos em aula.<br>
+<img src="https://terraria.wiki.gg/images/f/f3/Emote_Emotion_Alert.gif"> Aqui tem de tudo um pouco, projetos, alguns exercícios e trabalhos feitos em aula.<br>
 Uso o Git como meu portfólio pessoal!
 
 <div>
