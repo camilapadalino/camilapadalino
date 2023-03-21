@@ -1,6 +1,6 @@
 ### Oie! Bem vindo(a)!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camilapadalino&layout=true&theme=dracula)](https://github.com/camilapadalino/github-readme-stats)
+<img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilapadalino&layout=compact&langs_count=16&theme=dracula"/>]
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=camilapadalino&show_icons=true&theme=dracula)
 
 <div style="display: inline_block"><br>
